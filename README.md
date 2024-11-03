@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @baongodnvn
+- 👀 I’m interested in mobile development and new technologies.
+- 🌱 I’m currently learning advanced Flutter techniques and exploring cross-platform solutions.
+- 💞️ I’m looking to collaborate on innovative mobile app projects.
+- 📫 How to reach me: [baongo01041998@gmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can code in three different languages: Flutter, Android, and iOS!
